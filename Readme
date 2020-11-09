@@ -1,0 +1,13 @@
+Note Taker is an express app that allows the user to create quick notes and memos. This app was created to give the user persistent access to their notes and memos 
+on all their devices. The following are the features of the app:
+
+1) Allows the user to create notes
+2) Saves the user's 
+3) Provides an option to delete saved notes
+
+Instructions for use: No installations are required to use the app. The deployed application is available at https://notes-to-me.herokuapp.com/ 
+
+Technology used for development:
+1) Express
+2) Bootstrap
+3) Javascript 
