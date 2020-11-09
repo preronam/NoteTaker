@@ -1,5 +1,3 @@
-
-
 Note Taker is an Express app that allows the user to create quick notes and memos. This app provides a simple interface that allows the user to have persistent access to The following are the features of this app:
 
 1) Allows the user to create custom notes 
